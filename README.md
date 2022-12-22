@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 💬 Ask me about **Html, Css, JavaScript, React**
+- 💬 Ask me about **Html, Css, JavaScript, React, Python, Node and Express**
 
 - 📫 How to reach me **eliasslettemark@gmail.com**
 
