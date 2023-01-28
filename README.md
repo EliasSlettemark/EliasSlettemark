@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">A 13 year old developer from Norway</h3>
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Html, Css, JavaScript, React, Python, Node and Express**
 
