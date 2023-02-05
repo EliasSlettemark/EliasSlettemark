@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Html, Css, JavaScript, React, Python, Node and Express**
+- 💬 Ask me about **HTML, CSS, JavaScript and React**
 
 - 📫 How to reach me **eliasslettemark@gmail.com**
 
