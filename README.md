@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript and React**
 
-- 📫 How to reach me **eliasslettemark@gmail.com**
+- 📫 How to reach me **contact@eliasslettemark.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
