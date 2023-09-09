@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">14 year old boy from Norway</h3>
 
 - 🌱 I’m currently learning **Django**
 
