@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN<br>🎯 Goals: Launching my first Startup<br>🎲 Fun fact: I love reading</p>
+<p align="left">📚 I'm currently learning MERN<br>🎯 Goals: Launching my first Startup</p>
 
 ###
 
