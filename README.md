@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Elias and I'm a 9th grade student, from Norway</p>
+<p align="left">My name is Elias and I'm a 10th grade student, from Norway</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN<br>🎯 Goals: Launching my first Startup</p>
+<p align="left">📚 I'm currently learning MERN<br>🎯 Goals: Launching my first SaaS</p>
 
 ###
 
