@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning MERN<br>🎯 Goals: Launching my first SaaS</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
