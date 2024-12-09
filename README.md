@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Elias and I'm a 10th grade student, from Norway</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
